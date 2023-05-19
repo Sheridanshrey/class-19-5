@@ -6,11 +6,20 @@ public class Student {
     // I fell sleepy
     private String sId;
     private String sName;
+    private String address;
 
     public Student(String sId, String sName) {
         this.sId = sId;
         this.sName = sName;
     }   
+    
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
     
     public String getsId() {
         return sId;
