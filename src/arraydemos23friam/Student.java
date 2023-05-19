@@ -6,7 +6,6 @@ public class Student {
     // I fell sleepy
     private String sId;
     private String sName;
-    private String phoneNumber;
 
     public Student(String sId, String sName) {
         this.sId = sId;
