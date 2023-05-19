@@ -13,7 +13,6 @@ public class Student {
     }   
     
     public String getsId() {
-        // mihir madarchod
         return sId;
     }
 
