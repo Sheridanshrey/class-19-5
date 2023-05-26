@@ -1,7 +1,7 @@
 
 package arraydemos23friam;
 
-
+// lecture na bharo atle aau thay 
 public class Student {
     // I fell sleepy
     private String sId;
